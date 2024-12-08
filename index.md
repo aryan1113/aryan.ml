@@ -1,0 +1,21 @@
+---
+layout: default
+title: Home
+---
+
+# Sounds like a good Portfolio I guess
+
+## About Me
+{% include sections/about.md %}
+
+## Interview Experiences
+{% include sections/experiences.md %}
+
+## Technical Notes
+{% include sections/technical-notes.md %}
+
+## Movie Reviews
+{% include sections/movie-reviews.md %}
+
+## Travel Ideas
+{% include sections/travel-ideas.md %}

@@ -1,2 +1,24 @@
-name: space
+# _config.yml
+title: space
+description: to be added later on
 theme: jekyll-theme-minimal
+
+# Site settings
+author: Aryan
+email: aryanpandeywork@gmail.com
+
+# Social media links
+github_username: aryan1113
+twitter_username: aisehiaryan
+
+# Build settings
+markdown: kramdown
+permalink: /:title/
+
+# Sections to display
+sections:
+  - about
+  - interview-experiences
+  - technical-notes
+  - movie-reviews
+  - travel-ideas
