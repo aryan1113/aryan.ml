@@ -1,4 +1,3 @@
-# _layouts/default.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,6 +6,7 @@
     <title>{{ page.title }} | {{ site.title }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
+
 <body>
     {% include header.html %}
     
@@ -16,11 +16,17 @@
     
     {% include footer.html %}
 </body>
-</html>
 
-# _includes/header.html
+
 <header>
     <h1>{{ site.title }}</h1>
+    <!-- <nav>
+        <a href="/">Home</a>
+        {% assign pages = site.pages | where: "published", true %}
+        {% for pg in pages %}
+          <a href="{{ pg.url }}">{{ pg.title }}</a>
+        {% endfor %}
+    </nav> -->
     <nav>
         <ul>
             {% for section in site.sections %}
@@ -30,7 +36,8 @@
     </nav>
 </header>
 
-# _includes/footer.html
-<footer>
-    <p>© {{ site.time | date: '%Y' }} {{ site.author }}. All rights reserved.</p>
-</footer>
+<!-- <footer>
+    <p>© {{ site.time | date: '%Y' }} {{ site.author }}. made for fun.</p>
+</footer> -->
+
+</html>

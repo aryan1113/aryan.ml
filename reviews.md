@@ -1,9 +1,3 @@
-<!-- # _includes/sections/movie-reviews.md
----
-title: Movie Reviews
-section_id: movie-reviews
---- -->
-
 <!-- 
 ★☆☆☆☆ one star
 ★★☆☆☆ two star
@@ -13,6 +7,14 @@ section_id: movie-reviews
  -->
  
 <!-- ## Movie Reviews -->
+
+---
+layout: default
+published : false
+title: reviews
+permalink: /reviews/  
+hidden : true
+---
 
 ### Movie Title 1
 - **Rating**: ★★★★☆

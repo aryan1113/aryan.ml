@@ -14,8 +14,5 @@ title: Home
 ## Technical Notes
 {% include sections/technical-notes.md %}
 
-## Movie Reviews
-{% include sections/movie-reviews.md %}
-
 ## Travel Ideas
 {% include sections/travel-ideas.md %}
