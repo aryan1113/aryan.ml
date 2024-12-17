@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Sounds like a good Portfolio I guess
+# seems like an okayish webpage
 
 ## About Me
 {% include sections/about.md %}
