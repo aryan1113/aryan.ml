@@ -8,7 +8,7 @@ hidden : true
 
 
 ### A simple heatmap showing how many movies I saw 
-![heatmap displaying movie counts by month](/scripts/movieCountbyMonth.png)
+![heatmap displaying movie counts by month](../scripts/movieCountbyMonth.png)
 
 <h3> Head over to </h3>
 - [Watch List for 2024](#WatchList2024)
