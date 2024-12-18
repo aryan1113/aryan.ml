@@ -1,6 +1,20 @@
 import os
 from datetime import datetime
 
+valid_genre = [
+    'Action', 
+    'Comedy',
+    'nonsensical',
+    'Sci-Fi', 
+    'Horror',  
+    'Drama',
+    'Romance', 
+    'Documentary', 
+    'Anime', 
+    'War',
+    'Coming of Age'
+]
+
 def add_movie_review(title, rating , brief_review, genre, watchDate ,file_path='./media/rating.md'):
     """
     Add a new movie review to the markdown file.
@@ -11,13 +25,14 @@ def add_movie_review(title, rating , brief_review, genre, watchDate ,file_path='
     :param genre: Movie genre
     :param file_path: Path to the markdown file (default: ../media/reviews.md)
     """
-    # # Validate inputs
-    # if not all([title, rating, brief_review, genre, watchDate]):
-    #     raise ValueError("All fields must be filled out")
-    
+
+    if genre not in valid_genre:
+        
+        raise ValueError(f"Invalid genre '{genre}' . Must be one of: {', '.join(valid_genre)}")
+
     # Scale rating to star format
-    rating = rating // 2
-    str_rating = rating * "★" + ( 5 - rating ) * "☆"
+    scaled_rating = rating // 2
+    str_rating = scaled_rating * "★" + ( 5 - scaled_rating ) * "☆"
     
     # Read existing content
     try:
@@ -39,14 +54,17 @@ def add_movie_review(title, rating , brief_review, genre, watchDate ,file_path='
     # Prepare the new review entry
     new_review = f"""
 ### {title}
-- **Rating**: {str_rating}
+- **Rating**: {str_rating + " " + str(rating)}
 - **Genre**: {genre}
 - **Date** : {watchDate}
 - **Brief Review**: {brief_review}
 """
     
+    # To append movie at the top, use index 8
+    # insertion_index = 8
+
     # To append movie at the end
-    insertion_index = 8
+    # insertion_index = len(content)
     content.insert(insertion_index, new_review + "\n")
     
     # Write back to the file
@@ -59,13 +77,14 @@ def add_movie_review(title, rating , brief_review, genre, watchDate ,file_path='
 def main():
     # Demonstration of how to use the function
     add_movie_review(
-        title="alsonewstuff",
-        rating= 0,
+        title="Fatherhood (Kevin Hart)",
+        rating= 4,
         brief_review="""
-        sample review
+        Cliche, theek hai tho
+        Powerful story 
         """,
-        genre="Science Fiction",
-        watchDate="17 April 2024"
+        genre="Documentary",
+        watchDate="31 October 2023"
     )
 
 if __name__ == "__main__":
