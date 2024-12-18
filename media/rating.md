@@ -7,6 +7,16 @@ hidden : true
 --- 
 
 
+### A simple heatmap showing how many movies I saw 
+![heatmap displaying movie counts by month](/scripts/movieCountbyMonth.png)
+
+<h3> Head over to </h3>
+- [Watch List for 2024](#WatchList2024)
+- [Watch List for 2023](#WatchList2023)
+
+
+
+<div id="WatchList2024"></div>
 ### Pineapple Express 2007
 - **Rating**: ★★★★☆ 9
 - **Genre**: nonsensical
@@ -81,6 +91,7 @@ but these are turned happening and exciting. Great watch.
 - **Brief Review**: 
         Visually strong, how easily can lives be lost
 
+<div id="WatchList2023"></div>
 
 ### Fatherhood Kevin Hart
 - **Rating**: ★★★☆☆ 7
@@ -135,13 +146,13 @@ Wakanda me IIT nai hai kya 💀
 ### The Theory of Everything
 - **Rating**: ★★★★☆ 8
 - **Genre**: Documentary
-- **Date** : 29 Jan 2023
+- **Date** : 29 January 2023
 - **Brief Review**: 
         Beautiful, wish Jane had more appreciation
 
 ### First Man 2018
 - **Rating**: ★★★☆☆ 7
 - **Genre**: Sci-Fi
-- **Date** : 27 Jan 2023
+- **Date** : 27 January 2023
 - **Brief Review**: 
         Great watch, has Ryan Gosling as well
