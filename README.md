@@ -20,3 +20,8 @@ Can add a heatmap of sorts to visualize how often I binge watch
 
 <hr> 
 That would be enough for now, will add more stuff if I get inspired by cooler stuff outside.
+
+<hr>
+## Instructions
+To run locally use : bundle exec jekyll serve
+Run python scripts using : python addReviews.py
