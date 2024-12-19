@@ -13,12 +13,19 @@ hidden : true
 
 <h3> Head over to </h3>
 - [Watch List for 2024](#WatchList2024)
+- [Series from 2024](#Series2024)
 - [Watch List for 2023](#WatchList2023)
+- [Series from 2023](#Series2023)
+- [Series from long ago](#OlderSeries)
 - [Watch List for 2022 and 2021, all mixed up](#WatchListOldBollywood)
 - [Watch List for older Hollywood movies](#WatchListOldHollywood)
 
+<hr style="border:2px solid gray">
 
 <div id="WatchList2024"></div>
+
+## Watch List 2024
+
 ### Pineapple Express 2007
 - **Rating**: ★★★★☆ 9
 - **Genre**: nonsensical
@@ -87,9 +94,23 @@ but these are turned happening and exciting. Great watch.
 - **Brief Review**: 
         Visually strong, how easily can lives be lost
 
+<hr style="border:2px solid gray">
+
+<div id="Series2024"></div>
+
+## Series from 2024
+
+### How I Met Your Mother S1
+- **Rating**: ★★★★☆ 8
+- **Genre**: Romance
+- **Date** : 10 July 2024
+- **Brief Review**: Fun to watch over dinner, but turns out 2din mein dekh lia
+
+<hr style="border:2px solid gray">
 
 <div id="WatchList2023"></div>
 
+## Movies from 2023
 
 ### Fatherhood Kevin Hart
 - **Rating**: ★★★☆☆ 7
@@ -138,14 +159,14 @@ seems like a movie for paraniods, more like a campaign on its own
 - **Genre**: Documentary
 - **Date** : 11 March 2023
 - **Brief Review**: 
-        Have I lost all appreciation of art
-No fight sequence alongside very poor transitions, Not enough lighting at times
-The art style feels a bit off, especially the goggles
-2065 byte encryption bro wtf, Alse there is no such thing as euler angles
-The Talokan chant sucks, sounds like Taloker bakery
-Tf, ri/rio mentions she built her first machine when she was 3
-Wakanda me IIT nai hai kya 💀
-
+        Have I lost all appreciation of art <br>
+No fight sequence alongside very poor transitions, Not enough lighting at times <br>
+The art style feels a bit off, especially the goggles <br>
+2065 byte encryption bro wtf, Alse there is no such thing as euler angles <br>
+The Talokan chant sucks, sounds like Taloker bakery <br>
+Tf, ri/rio mentions she built her first machine when she was 3 <br>
+Wakanda me IIT nai hai kya 💀 <br>
+ 
 
 ### The Theory of Everything
 - **Rating**: ★★★★☆ 8
@@ -162,8 +183,51 @@ Wakanda me IIT nai hai kya 💀
 - **Brief Review**: 
         Great watch, has Ryan Gosling as well
 
+<hr style="border:2px solid gray">
+
+<div id="Series2023"></div>
+
+## Series from 2023
+
+### Jack Ryan S3
+- **Rating**: ★★★☆☆ 7
+- **Genre**: War
+- **Date** : 24 November 2023
+- **Brief Review**: Overpowered main character, but still a good watch
+
+### Never Have I Ever S3
+- **Rating**: ★★★☆☆ 6
+- **Genre**: Coming of Age
+- **Date** : 10 May 2023
+- **Brief Review**: unneccesary ending, otherwise good
+
+<hr style="border:2px solid gray">
+
+<div id="OlderSeries"></div>
+## Series before 2023
+
+### Scam 1992
+- **Rating**: ★★★☆☆ 7
+- **Genre**: Documentary
+- **Date** : 
+- **Brief Review**: One time watch, nice
+
+### Special Ops
+- **Rating**: ★★★★☆ 8
+- **Genre**: Action
+- **Date** : 
+- **Brief Review**: ending bekar, but otherwise great show
+
+### Rocket Boys 
+- **Rating**: ★★★★☆ 9
+- **Genre**: Documentary
+- **Date** : 
+- **Brief Review**: kaafi great, makes you think about where we've reached  
+
+<hr style="border:2px solid gray">
 
 <div id="WatchListOldBollywood"></div>
+
 ## Bollywood Section
 
 
@@ -188,11 +252,11 @@ Wakanda me IIT nai hai kya 💀
 - **Brief Review**: feel good jee era movie
 
 
-### Midnight runners
+### Midnight Runners
 - **Rating**: ☆☆☆☆☆ 0
 - **Genre**: Drama
 - **Date** : 
-- **Brief Review**: definitely not comedy, more like social issues pe movie
+- **Brief Review**: definitely not comedy, more like social issues pe movie. Wasn't expecting it to potray things in a thoda sa stereotypical way
 
 
 ### Shershaah
@@ -259,8 +323,10 @@ Wakanda me IIT nai hai kya 💀
 - **Brief Review**: might be a timeless classic, strong plot and can watch with any crowd
         loved the songs, and how perfectly they felt with the plot
 
+<hr style="border:2px solid gray">
 
 <div id="WatchListOldHollywood"></div>
+
 ## Hollywood Section
 
 
