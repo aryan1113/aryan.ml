@@ -8,6 +8,10 @@ on:
 jobs:
   test-build:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: space
+
     steps:
       - uses: actions/checkout@v4
 
@@ -16,6 +20,7 @@ jobs:
         with:
           ruby-version: '3.2'
           bundler-cache: true
+          working-directory: ./space
 
       - name: Install Dependencies
         run: |
@@ -29,4 +34,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: site-build
-          path: _site/
+          path: space/_site/
