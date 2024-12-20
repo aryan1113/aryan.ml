@@ -19,7 +19,7 @@ butterfly as a line break
 Written by me
 </h2>
 
-1. [Getting Started With ML](/guides/startml.md)
+1. [Getting Started With ML](./startml.md)
 
 2. [What even are RAGs](https://docs.google.com/document/d/1GzmrIF3Z7mEk_lhTqhF4HicyINtNCHv21O3a2Guu7q4/edit?usp=sharing)
 Saw Sony Research asking for RAGs for undergrad research positions, hence this.

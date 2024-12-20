@@ -2,7 +2,7 @@
 layout: default
 published : true
 title: To Be Read
-permalink: lists/bookstoread/  
+permalink: /lists/bookstoread/  
 ---
 
 <h3> Head over to </h3>

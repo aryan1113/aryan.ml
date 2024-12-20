@@ -2,7 +2,7 @@
 layout: default
 published : true
 title: To Be Read
-permalink: lists/readmisc/  
+permalink: /lists/readmisc/  
 ---
 
 ## Wasn't really why, but I had this written down as well
