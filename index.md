@@ -8,11 +8,8 @@ title: Home
 ## About Me
 {% include sections/about.md %}
 
-## Interview Experiences
+## Monkeytype
+{% include sections/monkeytype.html %}
+
+## What Have I Been Doing
 {% include sections/experiences.md %}
-
-## Technical Notes
-{% include sections/technical-notes.md %}
-
-## Travel Ideas
-{% include sections/travel-ideas.md %}
