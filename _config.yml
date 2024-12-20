@@ -1,6 +1,6 @@
 # _config.yml
 title: space
-description: to be added later on
+description: does this sound good
 theme: jekyll-theme-minimal
 
 # Site settings
@@ -20,5 +20,4 @@ sections:
   - about
   - interview-experiences
   - technical-notes
-  - movie-reviews
   - travel-ideas
