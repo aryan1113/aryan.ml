@@ -1,11 +1,12 @@
 ---
 layout: default
 published : true
-title: to be added
+title: ratings for everything I've seen
 permalink: /media/rating/  
 hidden : true
 --- 
 
+<br>
 
 ### A simple heatmap showing how many movies I saw 
 ![heatmap displaying movie counts by month](../scripts/movieCountbyMonth.png)
