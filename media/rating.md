@@ -27,6 +27,48 @@ hidden : true
 
 ## Watch List 2024
 
+
+### Easy A 2010
+- **Rating**: ★☆☆☆☆ 2
+- **Genre**: Coming of Age
+- **Date** : 30 December 2024
+- **Brief Review**: 
+Starting feels dull, plot lacks any character, felt like a waste of time, had a stereotypical Indian character which I find very off-putting
+        
+
+
+### John Tucker Must Die 2006
+- **Rating**: ★★★☆☆ 7
+- **Genre**: Coming of Age
+- **Date** : 29 December 2024
+- **Brief Review**: 
+Funny coming of the age movie, but tries to combine a lesson with the fun which ruins it all
+Kate kinda had tooo good of an ending to be true, but we all wished for it right
+        
+
+
+### Superhero Movie 2008
+- **Rating**: ★★★★☆ 9
+- **Genre**: nonsensical
+- **Date** : 28 December 2024
+- **Brief Review**: 
+        Kevin Hart being the token black guy, epic parody  film, has that one guy from the Airplane (1980) movie as well.\
+Combines the Xmen in a much smoother fashion\
+Titanium blades, they cut through diamonds; I'm not wearing any diamonds\
+Amazing Bonus credit / deleted scenes
+        
+
+
+### Swades
+- **Rating**: ★★★★☆ 9
+- **Genre**: Drama
+- **Date** : 27 December 2024
+- **Brief Review**: 
+        Great cinematic shots in the end, 
+        almost felt like an NRI who just had to return to his homeland to sort stuff out. 
+        Amazing watch
+        
+
 ### Pineapple Express 2007
 - **Rating**: ★★★★☆ 9
 - **Genre**: nonsensical

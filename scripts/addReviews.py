@@ -60,8 +60,8 @@ def add_movie_review(title, rating , brief_review, genre, watchDate ,file_path='
 - **Brief Review**: {brief_review}
 """
     
-    # To append movie at the top, use index 8
-    # insertion_index = 8
+    # To append movie at the top, use index 30
+    insertion_index = 29
 
     # To append movie at the end
     # insertion_index = len(content)
@@ -77,14 +77,13 @@ def add_movie_review(title, rating , brief_review, genre, watchDate ,file_path='
 def main():
     # Demonstration of how to use the function
     add_movie_review(
-        title="Fatherhood (Kevin Hart)",
-        rating= 4,
+        title="Easy A 2010",
+        rating= 2,
         brief_review="""
-        Cliche, theek hai tho
-        Powerful story 
+Starting feels dull, plot lacks any character, felt like a waste of time, had a stereotypical Indian character which I find very off-putting
         """,
-        genre="Documentary",
-        watchDate="31 October 2023"
+        genre="Coming of Age",
+        watchDate="30 December 2024"
     )
 
 if __name__ == "__main__":
